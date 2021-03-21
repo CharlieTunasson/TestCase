@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  QapitalTestCase
+
+  Created by Charlie Tuna on 2021-03-18.
+  
+*/
+
+// # Activity #
+
+"activity.title" = "Activity";
